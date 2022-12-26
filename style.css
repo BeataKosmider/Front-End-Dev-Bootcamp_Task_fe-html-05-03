@@ -1,0 +1,9 @@
+div {
+  width: 33%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  margin: auto;
+  border-style: solid;
+  border-color: blueviolet;
+  text-align: center;
+}
